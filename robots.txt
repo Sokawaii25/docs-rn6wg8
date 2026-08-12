@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-35zlel.keitaro-tech-rtb.online/sitemap.xml
